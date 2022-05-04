@@ -1,18 +1,18 @@
-package ticTacToe.models;
+package ticTacToe.v1.models;
 
-import ticTacToe.utils.Dialog;
-import ticTacToe.utils.Direction;
+import ticTacToe.v1.utils.Dialog;
+import ticTacToe.v1.utils.Direction;
 
 import java.util.Objects;
 
 public class Coordinate {
 
-    private ticTacToe.utils.Coordinate coordinate;
+    private ticTacToe.v1.utils.Coordinate coordinate;
 
     public static final int DIMENSION = 3;
 
     public Coordinate() {
-        coordinate = new ticTacToe.utils.Coordinate();
+        coordinate = new ticTacToe.v1.utils.Coordinate();
     }
 
     public Coordinate(int row, int column) {

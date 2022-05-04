@@ -1,9 +1,9 @@
-package ticTacToe.controllers;
+package ticTacToe.v1.controllers;
 
-import ticTacToe.models.Board;
-import ticTacToe.models.Coordinate;
-import ticTacToe.models.Turn;
-import ticTacToe.utils.Console;
+import ticTacToe.v1.models.Board;
+import ticTacToe.v1.models.Coordinate;
+import ticTacToe.v1.models.Turn;
+import ticTacToe.v1.utils.Console;
 
 import java.lang.constant.Constable;
 

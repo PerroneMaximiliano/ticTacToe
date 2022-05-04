@@ -1,4 +1,4 @@
-package ticTacToe.utils;
+package ticTacToe.v1.utils;
 
 import java.util.Objects;
 

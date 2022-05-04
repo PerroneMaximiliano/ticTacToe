@@ -3,7 +3,6 @@ package ticTacToe.v2.models;
 import ticTacToe.v2.utils.Console;
 import ticTacToe.v2.utils.Dialog;
 import ticTacToe.v2.utils.Direction;
-
 import java.util.Objects;
 
 public class Coordinate {

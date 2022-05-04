@@ -1,9 +1,9 @@
-package ticTacToe;
+package ticTacToe.v1;
 
-import ticTacToe.controllers.MoveController;
-import ticTacToe.controllers.PutController;
-import ticTacToe.models.Board;
-import ticTacToe.models.Turn;
+import ticTacToe.v1.controllers.MoveController;
+import ticTacToe.v1.controllers.PutController;
+import ticTacToe.v1.models.Board;
+import ticTacToe.v1.models.Turn;
 
 public class TicTacToe {
 

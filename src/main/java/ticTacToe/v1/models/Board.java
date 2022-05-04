@@ -1,7 +1,7 @@
-package ticTacToe.models;
+package ticTacToe.v1.models;
 
-import ticTacToe.utils.Console;
-import ticTacToe.utils.Direction;
+import ticTacToe.v1.utils.Console;
+import ticTacToe.v1.utils.Direction;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package ticTacToe.models;
+package ticTacToe.v1.models;
 
 public enum Color {
     XS('x'),
