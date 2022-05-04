@@ -1,4 +1,4 @@
-package ticTacToe.v3.utils;
+package ticTacToe.v4.utils;
 
 public class Dialog {
 
